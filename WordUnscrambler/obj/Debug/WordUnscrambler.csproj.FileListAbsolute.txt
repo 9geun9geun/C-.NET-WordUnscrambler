@@ -1,0 +1,12 @@
+C:\Users\rnrms\source\repos\word unscrambler\word unscrambler\obj\Debug\WordUnscrambler.csprojAssemblyReference.cache
+C:\Users\rnrms\source\repos\word unscrambler\word unscrambler\bin\Debug\word unscrambler.exe.config
+C:\Users\rnrms\source\repos\word unscrambler\word unscrambler\bin\Debug\word unscrambler.exe
+C:\Users\rnrms\source\repos\word unscrambler\word unscrambler\bin\Debug\word unscrambler.pdb
+C:\Users\rnrms\source\repos\word unscrambler\word unscrambler\obj\Debug\word unscrambler.exe
+C:\Users\rnrms\source\repos\word unscrambler\word unscrambler\obj\Debug\word unscrambler.pdb
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\word unscrambler.exe.config
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\word unscrambler.exe
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\word unscrambler.pdb
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csprojAssemblyReference.cache
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\word unscrambler.exe
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\word unscrambler.pdb

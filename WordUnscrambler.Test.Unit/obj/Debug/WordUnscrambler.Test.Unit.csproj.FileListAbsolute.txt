@@ -1,0 +1,16 @@
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\WordUnscrambler.Test.Unit.dll
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\WordUnscrambler.Test.Unit.pdb
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\word unscrambler.exe
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\word unscrambler.pdb
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\word unscrambler.exe.config
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\obj\Debug\WordUnscrambler.Test.Unit.csprojAssemblyReference.cache
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\obj\Debug\WordUnscrambler.Test.Unit.csproj.CopyComplete
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\obj\Debug\WordUnscrambler.Test.Unit.dll
+C:\Users\rnrms\source\repos\WordUnscrambler\WordUnscrambler.Test.Unit\obj\Debug\WordUnscrambler.Test.Unit.pdb
